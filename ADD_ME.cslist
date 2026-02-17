@@ -1,0 +1,9 @@
+src/VAMLaunch.cs
+src/VAMLaunchNetwork.cs
+src/LaunchUtils.cs
+src/SimpleWebSocket.cs
+src/IntifaceClient.cs
+src/MotionSources/IMotionSource.cs
+src/MotionSources/ZoneSource.cs
+src/MotionSources/OscillateSource.cs
+src/MotionSources/PatternSource.cs
