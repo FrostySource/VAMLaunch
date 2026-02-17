@@ -60,3 +60,7 @@ Three built-in motion sources control the stroke pattern:
 - VaM (Virt-A-Mate)
 - Intiface Central or JoyHub running locally
 - A Buttplug-compatible device
+
+## License
+
+BSD 3-Clause License — see [LICENSE](LICENSE) for full details.
